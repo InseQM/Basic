@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/com/codes/Basic_class/internationaliztion/I18N/mess.properties" />
+    <file url="file://$PROJECT_DIR$/src/com/codes/Basic_class/internationaliztion/I18N/mess_en_US.properties" />
+    <file url="file://$PROJECT_DIR$/src/com/codes/Basic_class/internationaliztion/I18N/mess_zh_CN.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/com/codes/Basic_class/internationaliztion/I18N/mess.properties" />
+      <file value="file://$PROJECT_DIR$/src/com/codes/Basic_class/internationaliztion/I18N/mess_en_US.properties" />
+      <file value="file://$PROJECT_DIR$/src/com/codes/Basic_class/internationaliztion/I18N/mess_zh_CN.properties" />
+      <base-name>mess</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
