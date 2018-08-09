@@ -1,4 +1,4 @@
-package com.codes.java_collections.collections.stream;
+package com.codes.java_collections.collection.stream;
 
 import java.util.stream.IntStream;
 //每个Stream只能执行一次
